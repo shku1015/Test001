@@ -1,0 +1,47 @@
+{
+    "JsonSuccessfullyWritten" : true,
+    "JsonVersion" : 4,
+    "JsonCreationTime" : "132619494309450425",
+    "CompatSectionCount" : 2,
+    "CompatSections" : 
+    [
+        {
+            "SectionMsg" : 
+            {
+                "MsgId" : 11,
+                "MsgDescription" : "DEBUG: Please note the following"
+            },
+            "Assets" : 
+            [
+                {
+                    "AssetImgPath" : "C:\\Windows\\appcompat\\UA\\GenericError.png",
+                    "Translatable" : true,
+                    "AssetMajorResourceMsgId" : 
+                    {
+                        "MsgId" : 121,
+                        "MsgDescription" : "DEBUG: Windows not Activated"
+                    }
+                }
+            ]
+        },
+        {
+            "SectionMsg" : 
+            {
+                "MsgId" : 13,
+                "MsgDescription" : "DEBUG: Machine Attributes"
+            },
+            "Assets" : 
+            [
+                {
+                    "AssetImgPath" : "C:\\Windows\\appcompat\\UA\\GenericApp.png",
+                    "Translatable" : true,
+                    "AssetMajorResourceMsgId" : 
+                    {
+                        "MsgId" : 120,
+                        "MsgDescription" : "DEBUG: Touch, Not Capable"
+                    }
+                }
+            ]
+        }
+    ]
+}
